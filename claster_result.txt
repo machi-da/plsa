@@ -1,0 +1,110 @@
+-----クラスタ:0-----
+new,	quarter
+other,	year
+large,	investor
+Japanese,	officer
+second,	bank
+last,	stock
+good,	market
+federal,	business
+foreign,	company
+major,	earning
+-----クラスタ:1-----
+last,	year
+other,	quarter
+major,	stock
+high,	month
+next,	week
+large,	share
+recent,	trading
+big,	government
+first,	rate
+real,	estate
+-----クラスタ:2-----
+last,	week
+other,	sale
+big,	interest
+high,	time
+new,	officer
+annual,	stock
+financial,	year
+good,	president
+current,	fund
+first,	company
+-----クラスタ:3-----
+other,	year
+economic,	quarter
+recent,	trading
+third,	company
+first,	president
+financial,	market
+Japanese,	earning
+net,	profit
+federal,	rate
+vice,	loss
+-----クラスタ:4-----
+last,	year
+other,	quarter
+high,	officer
+federal,	week
+new,	income
+recent,	government
+executive,	investor
+first,	issue
+third,	president
+net,	bank
+-----クラスタ:5-----
+new,	week
+last,	year
+net,	income
+first,	month
+small,	quarter
+recent,	company
+financial,	venture
+such,	loss
+good,	business
+next,	price
+-----クラスタ:6-----
+major,	quarter
+other,	president
+new,	month
+vice,	market
+last,	year
+first,	stock
+federal,	officer
+third,	issue
+second,	fund
+good,	sale
+-----クラスタ:7-----
+other,	year
+federal,	market
+new,	share
+last,	bond
+common,	investor
+Japanese,	bank
+financial,	income
+next,	interest
+major,	trading
+net,	week
+-----クラスタ:8-----
+last,	year
+other,	quarter
+new,	month
+large,	stock
+federal,	trading
+next,	market
+big,	investor
+third,	company
+major,	rate
+common,	share
+-----クラスタ:9-----
+new,	trading
+vice,	president
+last,	year
+other,	time
+common,	share
+large,	market
+real,	stock
+next,	week
+first,	estate
+composite,	business
